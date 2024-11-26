@@ -1,3 +1,3 @@
 # demo
 this is a demo 
-this is my first git repository
+this is my first git repository(first)
